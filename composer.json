@@ -61,8 +61,7 @@
             "drupal chain --file=../console/chain/post.yml"
         ],
         "post-update-cmd": [
-            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles",
-            "drupal chain --file=../console/chain/post.yml"
+            "DrupalProject\\composer\\ScriptHandler::createRequiredFiles"
         ]
     },
     "extra": {
