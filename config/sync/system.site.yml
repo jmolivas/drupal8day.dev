@@ -1,5 +1,5 @@
 uuid: 69cc2614-54fc-45c7-9878-4c5b88e9edf0
-name: 'Drupal 8 day'
+name: 'Drupal 8 day demo lorem'
 mail: admin@example.com
 slogan: ''
 page:
@@ -10,5 +10,3 @@ admin_compact_mode: false
 weight_select_max: 100
 langcode: en
 default_langcode: en
-_core:
-  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
